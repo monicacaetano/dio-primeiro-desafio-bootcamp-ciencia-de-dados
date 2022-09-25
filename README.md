@@ -6,3 +6,12 @@ Objetivos:
 - Treinar os comandos de atualização e sincronização do repositório com Git.
 
 [Link para o Bootcamp no site da Dio](https://web.dio.me/track/geracao-tech-unimed-bh-ciencia-de-dados)
+
+
+
+## Comandos usados para realizar esse desafio:
+
+- Git clone
+- Git status
+- Git add 
+- Git commit
