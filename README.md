@@ -1,7 +1,7 @@
-# dio-primeiro-desafio-bootcamp-ciencia-de-dados
-Primeiro repositório criado como desafio do Bootcamp de Ciência de Dados (Unimed)
+# Desafio 1
+Esse desafio de projeto é parte do Bootcamp de Ciência de Dados (Unimed/DIO)
 
-Objetivos desse desafio:
+Objetivos:
 - Criar um repositório no Github;
 - Treinar os comandos de atualização e sincronização do repositório com Git.
 
